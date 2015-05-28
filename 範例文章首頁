@@ -1,0 +1,13 @@
+<!doctype html><!--html5的開頭宣告-->
+
+<html debug="true" lang="zh_tw"><!--除錯與文本元素為繁體中文-->
+
+  <head>
+    <title>範例文章首頁</title>
+  </head>
+   
+  <body>
+    ＮＡＰＰＡ ＶＡＬＬＥＹ葡萄酒與美食演奏的味覺饗宴
+  </body>
+
+</html>
